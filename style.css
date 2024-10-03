@@ -1,0 +1,18 @@
+.wrapper{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    grid-gap: 15px;
+    width:100%;
+
+}
+
+.container{
+    width: 250px;
+    overflow:hidden;
+    text-align:center;
+}
+
+.container img{
+    width: 100%;
+}
